@@ -16,7 +16,7 @@ int main(){
         //star print kar lo
         int j = 1;
         while(j<=n-i+1){
-            cout<<i;
+            cout<<"*";
             j++;
         }
         cout<<endl;
