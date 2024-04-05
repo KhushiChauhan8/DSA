@@ -1,8 +1,11 @@
 #include<iostream>
 using namespace std;
 
-int isPrime(int n){
+//1 -> prime no
+//0 -> not a prime
+bool isPrime(int n){
 
+    // it's divide, not a prime numbner
     for(int i = 2; i <= n; i++){
         if(n%i == 0){
             return 0;

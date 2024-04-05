@@ -49,4 +49,6 @@ int main() {
     int ans = ans1 + ans2;
     cout<<"tatal number of Set Bits is = "<<ans<<endl;
 
+    return 0;
+
 }
