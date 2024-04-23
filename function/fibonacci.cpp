@@ -19,8 +19,6 @@ int fib(int n){
     return nextNumber;
 }
 
-
-
 int main() {
    
     int n;

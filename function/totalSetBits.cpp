@@ -28,10 +28,6 @@ int setBitsA(int a){
     return count;
 }
 
-
-
-
-
 int main() {
     int a, b;
     cout<<"Enter the value of a: ";
